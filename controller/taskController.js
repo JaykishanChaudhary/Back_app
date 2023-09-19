@@ -1,4 +1,4 @@
-const TaskModel=require('../../backapp/model/task_schema');
+const TaskModel=require('../model/task_schema');
 
 
 
